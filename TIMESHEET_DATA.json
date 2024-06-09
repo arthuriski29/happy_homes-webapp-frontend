@@ -1,0 +1,500 @@
+{
+  "id": 1,
+  "judul_kegiatan": "Shaka Zulu: The Citadel",
+  "nama_proyek": "Analog Circuit Design manager",
+  "tanggal_mulai": "2023-10-03T13:22:59Z",
+  "tanggal_berakhir": "2023-11-28T16:26:38Z",
+  "waktu_mulai": "10:33 AM",
+  "waktu_berakhir": "7:52 PM",
+  "durasi": "2:44 PM"
+},
+{
+  "id": 2,
+  "judul_kegiatan": "Film with Me in It, A",
+  "nama_proyek": "Quality Control Specialist",
+  "tanggal_mulai": "2023-12-30T21:03:02Z",
+  "tanggal_berakhir": "2023-12-08T12:56:55Z",
+  "waktu_mulai": "1:04 PM",
+  "waktu_berakhir": "1:53 PM",
+  "durasi": "1:13 AM"
+},
+{
+  "id": 3,
+  "judul_kegiatan": "Psycho III",
+  "nama_proyek": "Paralegal",
+  "tanggal_mulai": "2023-08-03T11:32:22Z",
+  "tanggal_berakhir": "2023-09-24T06:50:13Z",
+  "waktu_mulai": "1:24 PM",
+  "waktu_berakhir": "11:38 PM",
+  "durasi": "6:47 AM"
+},
+{
+  "id": 4,
+  "judul_kegiatan": "Land Before Time II: The Great Valley Adventure, The",
+  "nama_proyek": "Assistant Manager",
+  "tanggal_mulai": "2023-09-29T21:16:34Z",
+  "tanggal_berakhir": "2023-08-24T16:44:27Z",
+  "waktu_mulai": "2:46 PM",
+  "waktu_berakhir": "3:34 AM",
+  "durasi": "3:46 PM"
+},
+{
+  "id": 5,
+  "judul_kegiatan": "Mahabharata, The",
+  "nama_proyek": "Senior Editor",
+  "tanggal_mulai": "2023-08-08T06:59:31Z",
+  "tanggal_berakhir": "2023-10-19T19:32:19Z",
+  "waktu_mulai": "1:44 PM",
+  "waktu_berakhir": "9:44 AM",
+  "durasi": "6:20 PM"
+},
+{
+  "id": 6,
+  "judul_kegiatan": "If I Were You",
+  "nama_proyek": "Developer IV",
+  "tanggal_mulai": "2024-04-06T13:53:13Z",
+  "tanggal_berakhir": "2023-10-05T08:58:45Z",
+  "waktu_mulai": "3:27 PM",
+  "waktu_berakhir": "3:04 PM",
+  "durasi": "10:00 AM"
+},
+{
+  "id": 7,
+  "judul_kegiatan": "Let's Make Money",
+  "nama_proyek": "Paralegal",
+  "tanggal_mulai": "2024-05-09T18:11:36Z",
+  "tanggal_berakhir": "2024-04-03T19:38:49Z",
+  "waktu_mulai": "9:03 PM",
+  "waktu_berakhir": "5:50 AM",
+  "durasi": "2:31 AM"
+},
+{
+  "id": 8,
+  "judul_kegiatan": "Meet the Robinsons",
+  "nama_proyek": "Sales Representative",
+  "tanggal_mulai": "2024-03-15T15:50:20Z",
+  "tanggal_berakhir": "2023-06-10T20:56:52Z",
+  "waktu_mulai": "4:50 PM",
+  "waktu_berakhir": "4:39 AM",
+  "durasi": "4:39 PM"
+},
+{
+  "id": 9,
+  "judul_kegiatan": "Jungle Holocaust (Ultimo mondo cannibale)",
+  "nama_proyek": "Budget/Accounting Analyst I",
+  "tanggal_mulai": "2024-03-04T22:36:43Z",
+  "tanggal_berakhir": "2024-02-28T09:55:22Z",
+  "waktu_mulai": "12:53 PM",
+  "waktu_berakhir": "4:37 AM",
+  "durasi": "3:20 PM"
+},
+{
+  "id": 10,
+  "judul_kegiatan": "Blood on the Moon",
+  "nama_proyek": "VP Sales",
+  "tanggal_mulai": "2024-04-07T13:37:03Z",
+  "tanggal_berakhir": "2024-01-05T14:47:43Z",
+  "waktu_mulai": "4:52 AM",
+  "waktu_berakhir": "5:58 PM",
+  "durasi": "10:55 PM"
+},
+{
+  "id": 11,
+  "judul_kegiatan": "Hannah Free",
+  "nama_proyek": "Structural Engineer",
+  "tanggal_mulai": "2023-10-03T21:22:45Z",
+  "tanggal_berakhir": "2023-11-17T00:32:24Z",
+  "waktu_mulai": "8:36 AM",
+  "waktu_berakhir": "7:13 AM",
+  "durasi": "11:00 AM"
+},
+{
+  "id": 12,
+  "judul_kegiatan": "Brideshead Revisited",
+  "nama_proyek": "Financial Analyst",
+  "tanggal_mulai": "2023-07-04T17:38:53Z",
+  "tanggal_berakhir": "2023-11-11T19:54:41Z",
+  "waktu_mulai": "8:51 PM",
+  "waktu_berakhir": "8:13 PM",
+  "durasi": "1:57 PM"
+},
+{
+  "id": 13,
+  "judul_kegiatan": "River Runs Through It, A",
+  "nama_proyek": "Quality Engineer",
+  "tanggal_mulai": "2024-05-10T11:42:34Z",
+  "tanggal_berakhir": "2023-09-17T16:46:57Z",
+  "waktu_mulai": "3:26 AM",
+  "waktu_berakhir": "9:41 AM",
+  "durasi": "10:28 PM"
+},
+{
+  "id": 14,
+  "judul_kegiatan": "Dodsworth",
+  "nama_proyek": "Geological Engineer",
+  "tanggal_mulai": "2024-06-05T09:33:33Z",
+  "tanggal_berakhir": "2024-01-25T13:23:17Z",
+  "waktu_mulai": "3:01 PM",
+  "waktu_berakhir": "10:45 PM",
+  "durasi": "11:38 AM"
+},
+{
+  "id": 15,
+  "judul_kegiatan": "Fail Safe",
+  "nama_proyek": "Sales Associate",
+  "tanggal_mulai": "2024-01-01T09:41:35Z",
+  "tanggal_berakhir": "2023-08-18T23:12:49Z",
+  "waktu_mulai": "1:45 AM",
+  "waktu_berakhir": "10:25 AM",
+  "durasi": "11:31 PM"
+},
+{
+  "id": 16,
+  "judul_kegiatan": "Dark Tower, The",
+  "nama_proyek": "Staff Accountant I",
+  "tanggal_mulai": "2023-08-24T20:23:27Z",
+  "tanggal_berakhir": "2024-04-22T15:24:02Z",
+  "waktu_mulai": "5:56 AM",
+  "waktu_berakhir": "1:55 PM",
+  "durasi": "12:46 PM"
+},
+{
+  "id": 17,
+  "judul_kegiatan": "Monster, The (Mostro, Il)",
+  "nama_proyek": "Geologist III",
+  "tanggal_mulai": "2023-07-10T13:56:52Z",
+  "tanggal_berakhir": "2024-04-24T22:34:51Z",
+  "waktu_mulai": "9:09 AM",
+  "waktu_berakhir": "9:24 PM",
+  "durasi": "12:29 AM"
+},
+{
+  "id": 18,
+  "judul_kegiatan": "Happiness Is in the Field (Bonheur est dans le pré, Le)",
+  "nama_proyek": "Financial Analyst",
+  "tanggal_mulai": "2023-07-04T07:48:52Z",
+  "tanggal_berakhir": "2024-02-20T08:36:20Z",
+  "waktu_mulai": "12:52 AM",
+  "waktu_berakhir": "8:56 AM",
+  "durasi": "9:48 PM"
+},
+{
+  "id": 19,
+  "judul_kegiatan": "Third Person",
+  "nama_proyek": "Teacher",
+  "tanggal_mulai": "2024-04-17T23:24:40Z",
+  "tanggal_berakhir": "2024-02-02T17:12:37Z",
+  "waktu_mulai": "1:30 AM",
+  "waktu_berakhir": "12:51 PM",
+  "durasi": "11:02 PM"
+},
+{
+  "id": 20,
+  "judul_kegiatan": "Bizarre",
+  "nama_proyek": "Recruiter",
+  "tanggal_mulai": "2023-09-16T02:29:49Z",
+  "tanggal_berakhir": "2024-02-12T06:09:08Z",
+  "waktu_mulai": "3:34 AM",
+  "waktu_berakhir": "7:02 PM",
+  "durasi": "9:08 PM"
+},
+{
+  "id": 21,
+  "judul_kegiatan": "How to Eat Fried Worms",
+  "nama_proyek": "Civil Engineer",
+  "tanggal_mulai": "2024-02-24T06:54:08Z",
+  "tanggal_berakhir": "2023-06-29T10:26:56Z",
+  "waktu_mulai": "7:07 AM",
+  "waktu_berakhir": "9:50 AM",
+  "durasi": "2:55 PM"
+},
+{
+  "id": 22,
+  "judul_kegiatan": "Unearthly, The",
+  "nama_proyek": "Developer I",
+  "tanggal_mulai": "2023-10-29T10:20:53Z",
+  "tanggal_berakhir": "2024-03-25T04:35:52Z",
+  "waktu_mulai": "4:37 AM",
+  "waktu_berakhir": "10:14 PM",
+  "durasi": "7:44 AM"
+},
+{
+  "id": 23,
+  "judul_kegiatan": "Alaska: Spirit of the Wild",
+  "nama_proyek": "Nurse",
+  "tanggal_mulai": "2024-04-24T10:32:37Z",
+  "tanggal_berakhir": "2023-12-11T07:21:38Z",
+  "waktu_mulai": "10:33 PM",
+  "waktu_berakhir": "7:15 PM",
+  "durasi": "8:23 AM"
+},
+{
+  "id": 24,
+  "judul_kegiatan": "Fog Over Frisco",
+  "nama_proyek": "Librarian",
+  "tanggal_mulai": "2024-05-20T10:02:59Z",
+  "tanggal_berakhir": "2023-12-15T07:12:28Z",
+  "waktu_mulai": "8:34 AM",
+  "waktu_berakhir": "9:07 AM",
+  "durasi": "10:27 AM"
+},
+{
+  "id": 25,
+  "judul_kegiatan": "Craig Ferguson: A Wee Bit o' Revolution",
+  "nama_proyek": "Health Coach III",
+  "tanggal_mulai": "2023-08-15T20:38:39Z",
+  "tanggal_berakhir": "2024-02-14T04:52:16Z",
+  "waktu_mulai": "6:55 PM",
+  "waktu_berakhir": "7:10 PM",
+  "durasi": "6:56 PM"
+},
+{
+  "id": 26,
+  "judul_kegiatan": "American Werewolf in London, An",
+  "nama_proyek": "Occupational Therapist",
+  "tanggal_mulai": "2023-10-18T18:27:16Z",
+  "tanggal_berakhir": "2024-03-19T13:46:51Z",
+  "waktu_mulai": "8:38 PM",
+  "waktu_berakhir": "2:05 AM",
+  "durasi": "2:48 PM"
+},
+{
+  "id": 27,
+  "judul_kegiatan": "Passing Strange",
+  "nama_proyek": "Engineer II",
+  "tanggal_mulai": "2023-11-29T21:59:54Z",
+  "tanggal_berakhir": "2024-05-17T04:22:03Z",
+  "waktu_mulai": "7:43 AM",
+  "waktu_berakhir": "8:29 AM",
+  "durasi": "2:37 PM"
+},
+{
+  "id": 28,
+  "judul_kegiatan": "Victim",
+  "nama_proyek": "Paralegal",
+  "tanggal_mulai": "2024-05-01T12:32:48Z",
+  "tanggal_berakhir": "2024-06-03T17:08:29Z",
+  "waktu_mulai": "2:55 AM",
+  "waktu_berakhir": "7:43 PM",
+  "durasi": "12:50 PM"
+},
+{
+  "id": 29,
+  "judul_kegiatan": "Big River Man",
+  "nama_proyek": "Professor",
+  "tanggal_mulai": "2023-10-24T20:26:55Z",
+  "tanggal_berakhir": "2023-10-13T05:46:10Z",
+  "waktu_mulai": "5:06 AM",
+  "waktu_berakhir": "8:29 PM",
+  "durasi": "11:08 AM"
+},
+{
+  "id": 30,
+  "judul_kegiatan": "Key of Life (Kagi-dorobô no mesoddo)",
+  "nama_proyek": "Staff Scientist",
+  "tanggal_mulai": "2023-12-25T13:44:40Z",
+  "tanggal_berakhir": "2023-07-20T08:14:37Z",
+  "waktu_mulai": "2:02 AM",
+  "waktu_berakhir": "3:32 PM",
+  "durasi": "6:33 PM"
+},
+{
+  "id": 31,
+  "judul_kegiatan": "Trapped in Paradise",
+  "nama_proyek": "Senior Developer",
+  "tanggal_mulai": "2024-04-30T23:53:54Z",
+  "tanggal_berakhir": "2023-12-06T08:16:50Z",
+  "waktu_mulai": "1:43 AM",
+  "waktu_berakhir": "5:43 PM",
+  "durasi": "5:34 AM"
+},
+{
+  "id": 32,
+  "judul_kegiatan": "The Raid: Redemption",
+  "nama_proyek": "Research Nurse",
+  "tanggal_mulai": "2024-01-01T17:23:27Z",
+  "tanggal_berakhir": "2024-02-13T16:58:14Z",
+  "waktu_mulai": "3:00 AM",
+  "waktu_berakhir": "5:41 AM",
+  "durasi": "5:58 AM"
+},
+{
+  "id": 33,
+  "judul_kegiatan": "Another Gay Movie",
+  "nama_proyek": "Community Outreach Specialist",
+  "tanggal_mulai": "2024-02-21T12:51:20Z",
+  "tanggal_berakhir": "2023-07-02T21:00:05Z",
+  "waktu_mulai": "7:50 PM",
+  "waktu_berakhir": "12:38 PM",
+  "durasi": "8:42 AM"
+},
+{
+  "id": 34,
+  "judul_kegiatan": "Remarkable Power",
+  "nama_proyek": "Statistician I",
+  "tanggal_mulai": "2024-06-06T04:37:47Z",
+  "tanggal_berakhir": "2024-01-22T21:25:43Z",
+  "waktu_mulai": "10:59 PM",
+  "waktu_berakhir": "11:10 PM",
+  "durasi": "8:05 AM"
+},
+{
+  "id": 35,
+  "judul_kegiatan": "One Day in September",
+  "nama_proyek": "Nurse Practicioner",
+  "tanggal_mulai": "2024-01-08T04:03:44Z",
+  "tanggal_berakhir": "2023-09-30T04:30:11Z",
+  "waktu_mulai": "12:15 AM",
+  "waktu_berakhir": "3:11 PM",
+  "durasi": "6:26 AM"
+},
+{
+  "id": 36,
+  "judul_kegiatan": "Lizzie McGuire Movie, The",
+  "nama_proyek": "Compensation Analyst",
+  "tanggal_mulai": "2024-05-16T02:19:45Z",
+  "tanggal_berakhir": "2023-09-05T10:50:54Z",
+  "waktu_mulai": "12:40 AM",
+  "waktu_berakhir": "11:28 PM",
+  "durasi": "10:47 AM"
+},
+{
+  "id": 37,
+  "judul_kegiatan": "Fagbug",
+  "nama_proyek": "Administrative Officer",
+  "tanggal_mulai": "2024-05-20T22:51:45Z",
+  "tanggal_berakhir": "2024-01-27T10:18:31Z",
+  "waktu_mulai": "6:54 AM",
+  "waktu_berakhir": "3:07 AM",
+  "durasi": "2:25 PM"
+},
+{
+  "id": 38,
+  "judul_kegiatan": "Make Them Die Slowly (Cannibal Ferox)",
+  "nama_proyek": "Environmental Tech",
+  "tanggal_mulai": "2023-08-20T00:47:29Z",
+  "tanggal_berakhir": "2023-09-02T20:38:59Z",
+  "waktu_mulai": "2:27 AM",
+  "waktu_berakhir": "11:30 AM",
+  "durasi": "8:46 AM"
+},
+{
+  "id": 39,
+  "judul_kegiatan": "Consequences of Love, The (Conseguenze dell'amore, Le)",
+  "nama_proyek": "Web Designer IV",
+  "tanggal_mulai": "2023-07-08T17:16:52Z",
+  "tanggal_berakhir": "2023-12-28T07:30:13Z",
+  "waktu_mulai": "6:51 PM",
+  "waktu_berakhir": "9:58 AM",
+  "durasi": "12:56 PM"
+},
+{
+  "id": 40,
+  "judul_kegiatan": "Labyrinth of Passion (Laberinto de Pasiones)",
+  "nama_proyek": "Assistant Professor",
+  "tanggal_mulai": "2023-11-22T01:06:14Z",
+  "tanggal_berakhir": "2023-08-10T03:04:57Z",
+  "waktu_mulai": "8:39 PM",
+  "waktu_berakhir": "8:17 AM",
+  "durasi": "1:44 AM"
+},
+{
+  "id": 41,
+  "judul_kegiatan": "Hooper",
+  "nama_proyek": "Financial Analyst",
+  "tanggal_mulai": "2024-05-02T12:58:29Z",
+  "tanggal_berakhir": "2023-08-16T02:06:17Z",
+  "waktu_mulai": "9:56 PM",
+  "waktu_berakhir": "10:50 PM",
+  "durasi": "5:02 AM"
+},
+{
+  "id": 42,
+  "judul_kegiatan": "Along the Great Divide (Travelers, The)",
+  "nama_proyek": "Account Executive",
+  "tanggal_mulai": "2023-08-18T13:37:27Z",
+  "tanggal_berakhir": "2023-09-14T02:16:42Z",
+  "waktu_mulai": "10:04 AM",
+  "waktu_berakhir": "10:35 PM",
+  "durasi": "12:01 AM"
+},
+{
+  "id": 43,
+  "judul_kegiatan": "Reindeer Games",
+  "nama_proyek": "Accounting Assistant II",
+  "tanggal_mulai": "2024-03-15T01:19:38Z",
+  "tanggal_berakhir": "2024-06-03T19:39:35Z",
+  "waktu_mulai": "4:25 AM",
+  "waktu_berakhir": "7:08 PM",
+  "durasi": "6:08 AM"
+},
+{
+  "id": 44,
+  "judul_kegiatan": "Lo",
+  "nama_proyek": "Nurse Practicioner",
+  "tanggal_mulai": "2024-05-16T07:05:56Z",
+  "tanggal_berakhir": "2024-04-13T23:46:22Z",
+  "waktu_mulai": "7:02 AM",
+  "waktu_berakhir": "4:17 AM",
+  "durasi": "4:49 PM"
+},
+{
+  "id": 45,
+  "judul_kegiatan": "Soldier, The",
+  "nama_proyek": "Community Outreach Specialist",
+  "tanggal_mulai": "2024-03-17T13:53:23Z",
+  "tanggal_berakhir": "2023-12-07T08:40:12Z",
+  "waktu_mulai": "2:44 PM",
+  "waktu_berakhir": "1:12 PM",
+  "durasi": "1:48 PM"
+},
+{
+  "id": 46,
+  "judul_kegiatan": "Public Enemy, The",
+  "nama_proyek": "Chief Design Engineer",
+  "tanggal_mulai": "2024-04-06T10:03:56Z",
+  "tanggal_berakhir": "2023-12-26T15:49:15Z",
+  "waktu_mulai": "1:26 AM",
+  "waktu_berakhir": "12:38 PM",
+  "durasi": "5:08 PM"
+},
+{
+  "id": 47,
+  "judul_kegiatan": "Way, Way Back, The",
+  "nama_proyek": "Payment Adjustment Coordinator",
+  "tanggal_mulai": "2023-12-14T14:47:18Z",
+  "tanggal_berakhir": "2024-04-21T02:59:56Z",
+  "waktu_mulai": "2:29 PM",
+  "waktu_berakhir": "7:32 PM",
+  "durasi": "7:49 PM"
+},
+{
+  "id": 48,
+  "judul_kegiatan": "Stuck ",
+  "nama_proyek": "Senior Developer",
+  "tanggal_mulai": "2024-04-13T13:11:07Z",
+  "tanggal_berakhir": "2024-06-06T07:33:44Z",
+  "waktu_mulai": "6:41 AM",
+  "waktu_berakhir": "1:09 AM",
+  "durasi": "11:04 PM"
+},
+{
+  "id": 49,
+  "judul_kegiatan": "Guest House Paradiso",
+  "nama_proyek": "Software Test Engineer IV",
+  "tanggal_mulai": "2023-09-26T16:33:57Z",
+  "tanggal_berakhir": "2023-12-01T22:59:58Z",
+  "waktu_mulai": "5:28 AM",
+  "waktu_berakhir": "11:06 PM",
+  "durasi": "5:18 AM"
+},
+{
+  "id": 50,
+  "judul_kegiatan": "Terminal Velocity",
+  "nama_proyek": "Librarian",
+  "tanggal_mulai": "2024-05-01T16:41:30Z",
+  "tanggal_berakhir": "2024-03-27T20:57:55Z",
+  "waktu_mulai": "4:33 AM",
+  "waktu_berakhir": "5:06 AM",
+  "durasi": "7:43 PM"
+},
